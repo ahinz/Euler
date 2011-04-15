@@ -2,6 +2,6 @@ package org.hinz.euler
 
 object Main {
   def main(args: Array[String]) {
-      Solution7.run
+      Solution8.run
     }
 }
